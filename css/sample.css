@@ -1,0 +1,11 @@
+.basic {
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
